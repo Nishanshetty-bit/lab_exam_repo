@@ -5,7 +5,12 @@ Then I created a new branch called branch1 where i created a file named one.c
 
 I merged branch with main
 
-I'm adding a new line in the remote repository and committing the changes
+I created a light weight tag to one of the commits
+
+I reverted one of the commits
+
+
+
 
 
 
